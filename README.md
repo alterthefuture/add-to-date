@@ -1,5 +1,5 @@
 # add-to-date
-Made by - CatNinja#0001
+Made by - alter#6000
 
 This simple python function will take your current date and add to it with the entered time you would like to add.
 
