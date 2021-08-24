@@ -1,5 +1,5 @@
 # add-to-date
-Made by - alter#6000
+Made by - ritz#8888
 
 This simple python function will take your current date and add to it with the entered time you would like to add.
 
